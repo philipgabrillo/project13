@@ -1,12 +1,17 @@
-.center {
+center {
     display: block;
     border-radius: 50%;
     
    }
+
+   img {
+        border-radius: 40%;
+       }
   
    body {
     background: rgb(8, 37, 122);
     background: linear-gradient(165deg, rgb(227, 229, 236) 0%, rgba(0,2,15,0.8118349390537465) 100%);
+    background-repeat: no-repeat;
     } 
 
       
